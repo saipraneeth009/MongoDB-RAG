@@ -2,7 +2,7 @@
 
 ![RAG With MongoDB architecture](media/implementation_architecture.png)
 *RAG With MongoDB architecture*
-
+---
 ## Overview
 This project demonstrates a full Retrieval-Augmented Generation (RAG) pipeline using MongoDB as a vector database and OpenAI-compatible models (e.g., via LM Studio) for embeddings and generation. The workflow covers data ingestion, vector search, and answer generation.
 
