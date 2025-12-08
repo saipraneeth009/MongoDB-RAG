@@ -1,6 +1,13 @@
-# MongoDB RAG (Retrieval-Augmented Generation)
+# MongoDB RAG (Retrieval-Augmented Generation) using LM Studio for local inferencing
+
+_Empowering intelligent applications with local LLM inferencing and scalable vector search._
+
+[![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-47A248?logo=mongodb&logoColor=white)](https://www.mongodb.com/atlas)
+[![LangChain](https://img.shields.io/badge/LangChain-Python-green?logo=langchain&logoColor=white)](https://github.com/langchain-ai/langchain)
+[![LM Studio](https://img.shields.io/badge/LM_Studio-LLMs-orange)](https://lmstudio.ai/)
 
 **RAG With MongoDB architecture**
+
 ![RAG With MongoDB architecture](media/implementation_architecture.png)
 
 
